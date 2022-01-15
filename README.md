@@ -1,3 +1,3 @@
 # Drona
 
-### Coding classes
+### Coding class
