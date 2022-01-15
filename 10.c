@@ -10,6 +10,7 @@ char getName()
 int main()
 {
     int name[10];
+    getName();
     scanf("Enter a number: ");
     scanf("Enter a number: ");
     return 0;
